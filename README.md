@@ -1,7 +1,7 @@
-# Pemrograman Mobile - Pertemuan 5 - Desain UI di aplikasi android studio
+# Pemrograman Mobile - Pertemuan 5 - Desain UI di aplikasi Android Studio
 
-*Nama: Gufranaka Samudra*
-*NIM: 312110300*
+*Nama: Gufranaka Samudra*</br>
+*NIM: 312110300*</br>
 *Matkul: Pemrograman Mobile*
 
 `acttivity_main.xml`
@@ -36,8 +36,8 @@
 ```
 
 ## Output
-
+<div align="center">
 ![output](https://raw.githubusercontent.com/AgufSamudra/PemrogramanMobile-Pert5/main/Screenshot%20(10).png)
-
+</div>
 
 
