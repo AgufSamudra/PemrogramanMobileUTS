@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleAlarm</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="time_picker">Time Picker</string>
+</resources>
