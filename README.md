@@ -37,7 +37,7 @@
 
 ## Output
 <p align="center">
-![output](https://raw.githubusercontent.com/AgufSamudra/PemrogramanMobile-Pert5/main/Screenshot%20(10).png)
+    <img src="https://raw.githubusercontent.com/AgufSamudra/PemrogramanMobile-Pert5/main/Screenshot%20(10).png"
 </p>
 
 
