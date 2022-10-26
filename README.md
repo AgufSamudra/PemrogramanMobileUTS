@@ -36,8 +36,8 @@
 ```
 
 ## Output
-<div align="center">
+<p align="center">
 ![output](https://raw.githubusercontent.com/AgufSamudra/PemrogramanMobile-Pert5/main/Screenshot%20(10).png)
-</div>
+</p>
 
 
