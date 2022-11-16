@@ -1,4 +1,4 @@
-# Pemrograman Mobile - Pertemuan 5 - Desain UI di aplikasi Android Studio
+# Pemrograman Mobile - UTS - Desain UI di aplikasi Android Studio
 ## GITLAB: <https://gitlab.com/AgufSamudra/PemrogramanMobile-Pert5>
 Gatau kenapa di E-Campus yang ke kirim link Github doang pak.
 
